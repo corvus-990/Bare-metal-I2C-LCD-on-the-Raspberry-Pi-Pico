@@ -13,7 +13,6 @@
 //   RP2040 datasheet   - register addresses and bit positions
 //   HD44780U datasheet - 4-bit initialisation sequence and commands
 
-#include <stdio.h>
 #include <stdbool.h>
 #include <stdint.h>
 
