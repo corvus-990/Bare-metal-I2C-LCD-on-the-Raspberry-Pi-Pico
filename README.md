@@ -4,7 +4,7 @@ A C program for the Raspberry Pi Pico (RP2040) that writes a character to a 16x2
 
 Building it taught me a lot about the I2C protocol and about working from datasheets.
 
-<img width="3024" height="2570" alt="IMG_3099" src="https://github.com/user-attachments/assets/43a5e6ee-0838-4d9b-b21a-e018b9f44036" />
+<img width="500" alt="LCD showing the letter A" src="https://github.com/user-attachments/assets/43a5e6ee-0838-4d9b-b21a-e018b9f44036" />
 
 ## What it does
 
